@@ -2,8 +2,8 @@
 This is my first  Git Repository 
 
 ## Table of content
-Introduction to Excel
-Conditionals & Null Values
-Data Cleaning with Excel
-Myntra Data Cleaning
-Dashboard Building with Excel
+1.Introduction to Excel
+2.Conditionals & Null Values
+3.Data Cleaning with Excel
+4.Myntra Data Cleaning
+5.Dashboard Building with Excel
